@@ -6,7 +6,7 @@ While the provided R script will automate download of the required data, the raw
 
 All data and links provided by John Hopkins Uni
 
-##Script & Instructions Breakdown
+## Script & Instructions Breakdown
 The 'run_analysis.R' file contains all needed scripts. This file has been annotated with the following steps, including how they relate to the 5 stages requested by JHU (I found it easier to do some parts out of order!).
 
 JHU Instructions:
@@ -25,7 +25,7 @@ You should create one R script called run_analysis.R that does the following.
 4. Separate mean & standard dev.(PROJECT PART 2/5)
 5. Create new dataset of means (PROJECT PART 5/5)
 
-##Variables/files
+## Variables/files
 Based on information the following code info connects the provided data:
 "x_test", "y_test", "subject_test", "x_train", "y_train", and "subject_train" are the primary downloaded data that is manipulated - comprising the results of two rounds of accelerometer testing.
 
