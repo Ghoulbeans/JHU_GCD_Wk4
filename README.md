@@ -1,4 +1,4 @@
-##Variables/files
+## Variables/files
 Based on information the following code info connects the provided data:
 "x_test", "y_test", "subject_test", "x_train", "y_train", and "subject_train" are the primary downloaded data that is manipulated - comprising the results of two rounds of accelerometer testing.
 
